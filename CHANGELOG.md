@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/Rodolfo0/CleanNewTab/compare/clean-new-tab-v0.6.0...clean-new-tab-v0.7.0) (2026-08-07)
+
+
+### Features
+
+* **website:** add Astro site and GitHub Pages deploy ([52058c7](https://github.com/Rodolfo0/CleanNewTab/commit/52058c7099179766b406a678bebba22e17cb4c7a))
+
 ## [0.6.0](https://github.com/Rodolfo0/CustomNewTab/compare/clean-new-tab-v0.5.2...clean-new-tab-v0.6.0) (2026-08-05)
 
 
